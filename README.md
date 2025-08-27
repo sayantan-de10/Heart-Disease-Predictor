@@ -36,7 +36,7 @@ Streamlit → Model deployment
 
 📂 Project Structure
 
-    │── Disease_Detector.ipynb # Main Jupyter Notebook
+    │── Disease_Predictor.ipynb # Main Jupyter Notebook
     
     │── requirements.txt # List of dependencies
     
