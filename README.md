@@ -24,6 +24,8 @@ Deployment as a web app for user-friendly interaction
 
 Python 3.13.7
 
+Kaggle → Dataset input
+
 NumPy, Pandas → Data handling
 
 Scikit-learn → Machine learning algorithms
@@ -61,6 +63,8 @@ Install Python if not already present on your system.
 Install dependencies:
 
     pip install -r requirements.txt
+
+Log in to Kaggle and generate an API key for uploading as kaggle.json
 
 ▶️ Usage
 
