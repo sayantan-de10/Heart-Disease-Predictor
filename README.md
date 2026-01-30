@@ -22,7 +22,7 @@ Deployment as a web app for user-friendly interaction
 
 🛠️ Technologies Used
 
-Python 3.13.7
+Python 3.13.9
 
 Kaggle → Dataset input
 
@@ -44,9 +44,13 @@ Streamlit → Model deployment
     
     │── README.md # Project documentation
     
-    │── models/ # Saved ML models
+    │── heart_rf_model.pkl # Saved ML model
+
+    │── heart_scaler.pkl # Saved ML model scaler
     
     │── data/ # Dataset
+
+    │── Heart_user_template.csv # User template for data input
 
     │── heart_app.py # Web deployment app
 
@@ -54,7 +58,7 @@ Streamlit → Model deployment
 
 Clone the repository:
 
-    git clone https://github.com/your-username/Heart-Disease-Predictor.git
+    git clone https://github.com/sayantan-de10/Heart-Disease-Predictor.git
     
     cd Heart-Disease-Predictor
 
